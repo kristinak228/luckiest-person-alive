@@ -55,9 +55,9 @@ int lastMan(int size)
 
 int main(int argc, char ** argv){
 
-	cout << "last man 5: " << lastMan(5) << endl; 
-	cout << "last man 10: " << lastMan(10) << endl;
-	cout << "last man 100: " << lastMan(100) << endl;
+	cout << "last man 5: " << lastMan(5) << endl; // 3
+	cout << "last man 10: " << lastMan(10) << endl; // 5
+	cout << "last man 100: " << lastMan(100) << endl; // 73
 
 	return 0;
 }
