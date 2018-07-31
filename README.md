@@ -4,8 +4,4 @@ This is a problem I found online that I wanted to implement in two ways: vectors
 The problem is this: the are n number of people in a circle, you kill the person adjacent to you, then pass the knife 
 over one (to the next living person) until there is only 1 person left. For example, if n = 5
 
-1 --> 2 --> 3 --> 4 --> 5 [2]
-1 --> 3 --> 4 --> 5       [4]
-1 --> 3 --> 5             [1]  
-3 --> 5                   [5]
-3
+1 --> 2 --> 3 --> 4 --> 5 | 1 --> 3 --> 4 --> 5 | 1 --> 3 --> 5 | 3 --> 5 | 3
