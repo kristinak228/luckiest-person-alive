@@ -1,7 +1,5 @@
 /*
  * Kristina Kolibab
- * This is a very inefficient way to do this problem,
- * should have used a doubly linked list with nodes
  */
 
 #include <iostream>
